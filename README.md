@@ -49,10 +49,3 @@ Configure the database connection settings in main.py specifying your PostgreSQL
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-- [Dhruv Mehta](https://github.com/CodeBurnerrr) - CodeBurnerrr
-- [Janvi Kapadia](https://github.com/janvikapadia) - janvikapadia
-
-## Acknowledgments
-- Send Email using Python in 60s (https://youtube.com/shorts/n9Ooxum-iUo?si=uwrhEo26S_Qj9zsC) by [@CodewithSJ](https://github.com/jha-shubham01) - For providing code snippets used in this project.
